@@ -3,7 +3,7 @@ I'm a **Computer Science and Engineering graduate** with a strong passion for de
 
 🌱 **Currently working on**: A full-stack e-commerce project  
 🎓 **Education**: B. Tech in Computer Science and Engineering, PES University, Bengaluru  
-📫 **How to reach me**: [LinkedIn]([https://www.linkedin.com/in/sanja](https://www.linkedin.com/in/sanjay-sagarad-52a477245/)) | [Email](mailto:sanjaysagarad@gmail.com)
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/sanjay-sagarad-52a477245/) | [Email](mailto:sanjaysagarad@gmail.com)
 
 ## 🛠️ Skills & Technologies
 
