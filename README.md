@@ -22,9 +22,6 @@ I'm a **Computer Science and Engineering graduate** with a strong passion for de
 - [**Unified Healthcare Interface**](https://github.com/sanjaysagarad05/UnifiedHealthCareInterface):  
   Developed an NLP-based application for summarizing patient-doctor conversations with 90% accuracy. Integrated blockchain for secure data storage, improving data protection by 95%.
 
-- [**Digital Care**](https://github.com/your-username/digital-care):  
-  Built a healthcare system that securely stores patient data using frontend and backend technologies. Enhanced security and data confidentiality.
-
 - [**Credit Card Fraud Detection**](https://github.com/sanjaysagarad05/Credit-card-fraud-detection):  
   Designed machine learning models that improved fraud detection by 95% and reduced false positives by 30%, deployed using Python.
 
