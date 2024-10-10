@@ -35,12 +35,12 @@ I'm a **Computer Science and Engineering graduate** with a strong passion for de
 - Completed **Java Programming for Beginners with Object-Oriented Programming** (Udemy).
 - Completed **The Web Development Bootcamp 2024 MERN Stack** (Udemy).
 
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaysagarad05&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysagarad05&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaysagarad05&theme=radical)
 
-<!--
+
 **sanjaysagarad05/sanjaysagarad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
